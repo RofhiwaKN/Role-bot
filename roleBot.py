@@ -1027,4 +1027,5 @@ async def createchannels(ctx):
     except asyncio.TimeoutError:
         await ctx.send("⏰ Channel creation timed out. Please run `!createchannels` again to start over.")
 
-bot.run(TOKEN)
+if __name__ == "__main__":
+    bot.run(TOKEN)
