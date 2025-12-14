@@ -296,7 +296,7 @@ For issues or questions:
 - Check the `!help` command for command syntax
 - Review error messages for specific guidance
 - Verify bot permissions and role hierarchy
-- Contact server administrators: @rofhiwa_ or @auto team
+- Contact server administrators: @rofhiwa_ on discord
 
 ---
 
